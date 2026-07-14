@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 
 
-Sitemap: https://github.com/bbauska/silus-counter
+Sitemap: https://github.com/bbauska/silus-counter-2m

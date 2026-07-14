@@ -1,6 +1,9 @@
 {
- "name": "App",
- "icons": [
+ "name": "Silus Counter 2 Million Times",
+  "short_name": "Silus Counter", 
+  "start_url": "Silus-Counter-2m.bauska.org",
+  "display": "standalone", 
+  "icons": [
   {
    "src": "\/images/android-icon-36x36.png",
    "sizes": "36x36",
